@@ -9,7 +9,8 @@
 4. 3회 이상 불참시 강퇴
 
 
-## ❗️<span style="color:green">본인 이름의 폴더 생성 후 PR </span>❗️
+## ❗️<span style="color:green">본인 이름의 폴더 생성, 당일 날짜 폴더에 문제 PR </span>❗️
+ex) inmyownway/4월27일/ex.py
 
 ## ✅  소스코드 파일 이름 규칙
 
