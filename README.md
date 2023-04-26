@@ -27,4 +27,4 @@
 
 |**날짜**|**문제1**|**문제2**|  
 |--|-------|--|
-|4/26| ,     [2550. 징검다리도 두드려보고 건너라(D3)](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?    | contestProbId=AV6iuejqqX0DFAXN&categoryId=AV6iuejqqX0DFAXN&categoryType=CODE) [4193. 수영대회 결승전 ( 완전 탐색 + 구현 ) (D4)  ](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWKaG6_6AGQDFARV&categoryId=AWKaG6_6AGQDFARV&categoryType=CODE)|
+|4/26| [2550. 징검다리도 두드려보고 건너라(D3)](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AV6iuejqqX0DFAXN&categoryId=AV6iuejqqX0DFAXN&categoryType=CODE) | [4193. 수영대회 결승전 ( 완전 탐색 + 구현 ) (D4)  ](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWKaG6_6AGQDFARV&categoryId=AWKaG6_6AGQDFARV&categoryType=CODE)|
