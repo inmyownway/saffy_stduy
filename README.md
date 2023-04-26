@@ -25,6 +25,6 @@
 
 ## ✅  일정표
 
-|**날짜**|**알고리즘**|**링크**|  
+|**날짜**|**알고리즘*****|**링크**|  
 |--|--|--|
 |4/26| SWEA D3 2550. 징검다리도 두드려보고 건너라,            | (https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AV6iuejqqX0DFAXN&categoryId=AV6iuejqqX0DFAXN&categoryType=CODE) |
