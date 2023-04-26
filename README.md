@@ -10,11 +10,11 @@
 
 
 ## ❗️<span style="color:green">본인 이름의 폴더 생성, 당일 날짜 폴더에 문제 PR </span>❗️
-  ex) inmyownway/4월27일/ex.py
+&nbsp;ex) inmyownway/4월27일/ex.py
 
 
 
-
+<br>
 ## ✅  소스코드 파일 이름 규칙
 
 #### 백준
