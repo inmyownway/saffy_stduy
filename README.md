@@ -12,7 +12,8 @@
 
 
 ## ❗️<span style="color:green">본인 이름의 폴더 생성, 당일 날짜 폴더에 문제 PR </span>❗️
-&nbsp;ex) inmyownway/4월27일/ex.py
+&nbsp;ex) inmyownway/4월27일/SWEA_ex.py
+&nbsp;ex) inmyownway/4월27일/BOJ_ex.py
 
 
 
@@ -22,9 +23,9 @@
 ## ✅  소스코드 파일 이름 규칙
 
 #### 백준
-- BOJ/문제명.py
+- BOJ_문제명.py
 #### SWEA
-- SWEA/문제명.py
+- SWEA_문제명.py
 
 
 ## ✅ commit 규칙
