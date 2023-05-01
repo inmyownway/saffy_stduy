@@ -1,5 +1,5 @@
 from collections import defaultdict
-visited = defaultdict(list)
+visited = defaultdict(int)
 
 def dfs(board, cnt):
   global ans
@@ -11,9 +11,9 @@ def dfs(board, cnt):
       board[i], board[j] = board[j], board[i]
       new_num = int(''.join(board))
       
-      #방문한 적 없거나, 방문한 적 있지만 현재 교환 횟수가 더 많이 남아있는 경우
-      if not len(visited[new_num]) or visited[new_num][1] < cnt:
-        visited[new_num] = [0, cnt]
+      #현재 교환 횟수가 더 많이 남아있는 경우
+      if visited[new_num] < cnt:
+        visited[new_num] = cnt
 
         if cnt%2 == 0:
           #일의 자리와 십의 자리 교환
