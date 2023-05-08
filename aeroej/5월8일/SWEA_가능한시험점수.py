@@ -10,7 +10,7 @@ for test_case in range(1, t+1):
     new_score = set()
     
     for y in score:
-      #가능한 시험점수와 새로운 배점의 합
+      #배점 x와 시험점수 y의 합
       new_score.add(x + y)
     
     score = score.union(new_score)
