@@ -1,0 +1,24 @@
+test_case= int(input())
+def check(n):
+    n=str(n)
+
+    for i in range(len(n)-1):
+        if int(n[i])>int(n[i+1]):
+            return False
+    return True
+
+
+for tc in range(1,test_case+1):
+    n=int(input())
+    num=list(map(int,input().split()))
+
+    nums=[]
+
+    for i in range(n):
+        for j in range(i+1,n):
+            nums.append(num[i]*num[j])
+    maxNum=-1
+    for i in nums:
+        if check(i):
+            maxNum=max(maxNum,i)
+    print("#%d %d"%(tc,maxNum))
